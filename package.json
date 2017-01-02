@@ -1,0 +1,22 @@
+{
+  "name": "floripa-suhi-delivery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaikke/FSD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alaikke/FSD/issues"
+  },
+  "homepage": "https://github.com/alaikke/FSD#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
